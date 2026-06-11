@@ -2,6 +2,8 @@
 
 A sample Maven project demonstrating the standard directory structure and configuration for building Java applications using Maven.
 
+
+
 ## Project Structure
 
 ```
